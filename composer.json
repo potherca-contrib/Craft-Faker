@@ -1,6 +1,6 @@
 {
-    "name": "fred/faker",
-    "description": "Use Faker from  Craft CMS templates",
+    "name": "sjelful/craft-faker-plugin",
+    "description": "Use Faker from Craft CMS templates",
     "authors": [
         {
             "name": "Fred Carlsen",
